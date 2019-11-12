@@ -1,0 +1,6 @@
+import matplotlib.pyplot as plt
+
+plt.figure()
+plt.imshow()
+plt.title('')
+plt.show(block=False)
